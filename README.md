@@ -4,3 +4,4 @@
 / ASCII art logo displayed
 // User input validation working
 // Memory feature stores user info
+// Sentiment detection responds to emotions
