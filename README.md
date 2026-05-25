@@ -41,3 +41,12 @@ A console-based chat application with registration, login, and messaging feature
 | Username | jo_1 |
 | Password | MyPass@123 |
 | Cell Phone | +27831234567 |
+
+
+refencing
+Java Regex Documentation: https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html
+
+JSON in Java: https://www.oracle.com/technical-resources/articles/java/json.html
+
+JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
+
