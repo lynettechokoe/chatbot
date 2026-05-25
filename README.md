@@ -17,3 +17,11 @@ A console-based chat application with registration, login, and messaging feature
 
 A console-based chat application with registration, login, and messaging features.
 
+### Part 2 - Messaging System
+
+- Created Message class with all required methods
+- Users can only send messages after successful login
+- Menu system with options: Send Messages, Show Recent, Quit
+- User defines how many messages to create at the start
+- Message ID validation (max 10 characters)
+- Recipient cell number validation (reused from Part 1)
