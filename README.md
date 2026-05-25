@@ -25,3 +25,7 @@ A console-based chat application with registration, login, and messaging feature
 - User defines how many messages to create at the start
 - Message ID validation (max 10 characters)
 - Recipient cell number validation (reused from Part 1)
+ Message length validation (max 250 characters)
+- Message hash generation using content and timestamp
+- Options to send, store, or disregard each message
+- JSON file storage for saved messages
