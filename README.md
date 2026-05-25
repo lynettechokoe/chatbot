@@ -32,3 +32,12 @@ A console-based chat application with registration, login, and messaging feature
 - Displays message details in order: ID, Hash, Recipient, Message
 - Total messages sent displayed at the end
 - Created unit tests for Message class methods
+ Test Values That Work
+
+| Field | Enter This |
+|-------|-------------|
+| First Name | John |
+| Last Name | Doe |
+| Username | jo_1 |
+| Password | MyPass@123 |
+| Cell Phone | +27831234567 |
