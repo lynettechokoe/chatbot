@@ -29,3 +29,6 @@ A console-based chat application with registration, login, and messaging feature
 - Message hash generation using content and timestamp
 - Options to send, store, or disregard each message
 - JSON file storage for saved messages
+- Displays message details in order: ID, Hash, Recipient, Message
+- Total messages sent displayed at the end
+- Created unit tests for Message class methods
