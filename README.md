@@ -50,3 +50,10 @@ JSON in Java: https://www.oracle.com/technical-resources/articles/java/json.html
 
 JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
 
+ Part 3 - Data Storage and Reports
+- Arrays populated with:
+  - Sent Messages
+  - Disregarded Messages
+  - Stored Messages (loaded from JSON)
+  - Message Hashes
+  - Message IDs
