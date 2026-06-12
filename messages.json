@@ -1,0 +1,47 @@
+[
+    {
+        "sender": "John",
+        "recipient": "+27831234567",
+        "messageID": "MSG1",
+        "messageHash": "13190178",
+        "time": "2026-06-12T18:58:17.642983200",
+        "message": "Did youge the cake?",
+        "status": "sent"
+    },
+    {
+        "sender": "John",
+        "recipient": "+27831234567",
+        "messageID": "MSG2",
+        "messageHash": "7361C666",
+        "time": "2026-06-12T18:59:50.951798500",
+        "message": "Yohooo, I am at the gate",
+        "status": "sent"
+    },
+    {
+        "sender": "John",
+        "recipient": "+27831234567",
+        "messageID": "MSG3",
+        "messageHash": "335C2007",
+        "time": "2026-06-12T19:01:48.920876500",
+        "message": "Where are you? You are late! I have asked you to be on time",
+        "status": "sent"
+    },
+    {
+        "sender": "John",
+        "recipient": "+27831234567",
+        "messageID": "MSG4",
+        "messageHash": "300C898A",
+        "time": "2026-06-12T19:02:56.958529",
+        "message": "Its dinner time !",
+        "status": "sent"
+    },
+    {
+        "sender": "John",
+        "recipient": "+27831234567",
+        "messageID": "MSG5",
+        "messageHash": "65FCBC99",
+        "time": "2026-06-12T19:03:55.947917100",
+        "message": "Ok, I am leaving without you.",
+        "status": "stored"
+    }
+]
