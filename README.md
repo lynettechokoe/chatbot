@@ -74,3 +74,8 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
 | LoginTest.java | Unit tests for Login class |
 | MessageTest.java | Unit tests for Message class |
 | Part3Test.java | Unit tests for Part 3 features |
+## How to Run
+
+1. Open project in NetBeans
+2. Clean and Build the project
+3. Right-click Main.java → Run File
