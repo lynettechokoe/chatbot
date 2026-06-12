@@ -64,3 +64,13 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
   - Search for messages by recipient
   - Delete message using message hash
   - Display full report of all stored messages
+  ## Files in Project
+
+| File | Description |
+|------|-------------|
+| Login.java | Registration and login validation |
+| Message.java | Message creation, validation, arrays, JSON storage |
+| Main.java | Main application with all menus |
+| LoginTest.java | Unit tests for Login class |
+| MessageTest.java | Unit tests for Message class |
+| Part3Test.java | Unit tests for Part 3 features |
