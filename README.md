@@ -141,3 +141,20 @@ All tests pass successfully.
 | File I/O | JSON file read/write |
 
 ---
+## References
+
+- Java Regex: https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html
+- JSON in Java: https://www.oracle.com/technical-resources/articles/java/json.html
+- JUnit 5: https://junit.org/junit5/docs/current/user-guide/
+
+---
+
+## Conclusion
+
+This application successfully implements all required features:
+- User registration and login with validation
+- Message creation with send/store/disregard options
+- JSON file storage for messages
+- Arrays to track different message types
+- Search, delete, and report functionality
+- Complete unit test coverage
