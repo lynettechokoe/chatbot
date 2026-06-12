@@ -98,3 +98,46 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
 | 3 | +27834484567 | Yohoooo, I am at your gate. | Disregard |
 | 4 | 0838884567 | It is dinner time ! | Send |
 | 5 | +27838884567 | Ok, I am leaving without you. | Store |
+## Stored Messages Menu Options
+
+| Option | Function |
+|--------|----------|
+| a | Display all stored messages (sender and recipient) |
+| b | Display the longest stored message |
+| c | Search for a message by ID |
+| d | Search for messages by recipient |
+| e | Delete a message by hash |
+| f | Display full report |
+| g | Back to Main Menu |
+
+---
+
+## Unit Tests
+
+### Part3Test.java - 5 Tests
+1. testSentMessagesArrayPopulated - Verifies sent messages array
+2. testLongestMessage - Finds longest stored message
+3. testSearchByMessageID - Searches message by ID
+4. testSearchByRecipient - Searches messages by recipient
+5. testDeleteByHash - Deletes message using hash
+
+All tests pass successfully.
+
+---
+
+## Coding Constructs Used
+
+| Construct | Where Used |
+|-----------|-------------|
+| Variables | String, int, boolean, List, arrays |
+| Variable Scope | Instance, static, local |
+| Data Types | String, int, boolean, char |
+| Classes | Login, Message, Main |
+| Methods | Getters, setters, validation, storage |
+| Operators | &&, ||, ==, != |
+| Decisions | if-else, switch statements |
+| Loops | while, for, for-each |
+| Arrays | Message[], Lists, ArrayLists |
+| File I/O | JSON file read/write |
+
+---
