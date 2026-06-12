@@ -89,3 +89,12 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
 | Username | jo_1 |
 | Password | MyPass@123 |
 | Cell Phone | +27831234567 |
+### Message Test Data
+
+| Message | Recipient | Message Text | Action |
+|---------|-----------|--------------|--------|
+| 1 | +27834557896 | Did you get the cake? | Send |
+| 2 | +27838884567 | Where are you? You are late! I have asked you to be on time. | Store |
+| 3 | +27834484567 | Yohoooo, I am at your gate. | Disregard |
+| 4 | 0838884567 | It is dinner time ! | Send |
+| 5 | +27838884567 | Ok, I am leaving without you. | Store |
