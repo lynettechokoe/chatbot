@@ -57,3 +57,10 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
   - Stored Messages (loaded from JSON)
   - Message Hashes
   - Message IDs
+   Stored Messages menu with options:
+  - Display sender and recipient of all stored messages
+  - Display the longest stored message
+  - Search for message by ID
+  - Search for messages by recipient
+  - Delete message using message hash
+  - Display full report of all stored messages
