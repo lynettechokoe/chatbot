@@ -79,3 +79,13 @@ JUnit 5 Documentation: https://junit.org/junit5/docs/current/user-guide/
 1. Open project in NetBeans
 2. Clean and Build the project
 3. Right-click Main.java → Run File
+## Test Data Used
+
+### Registration Test Data
+| Field | Value |
+|-------|-------|
+| First Name | John |
+| Last Name | Doe |
+| Username | jo_1 |
+| Password | MyPass@123 |
+| Cell Phone | +27831234567 |
